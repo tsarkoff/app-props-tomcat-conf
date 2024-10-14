@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- @tsarkoff / ConfApp : setup App.Props file -->
+<!--    <Environment name="spring.config.location" value="file:../conf/02-tomcat-conf-catalina-localhost-xml.properties" type="java.lang.String"/>-->
+</Context>

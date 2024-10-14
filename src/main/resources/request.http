@@ -1,0 +1,2 @@
+### Port 8088 is setted up in tomcat/conf/server.xml
+GET http://localhost:8088/conf

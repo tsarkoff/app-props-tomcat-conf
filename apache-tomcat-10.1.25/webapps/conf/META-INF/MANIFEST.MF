@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: tsark
+Build-Jdk: Amazon Corretto 21.0.4
+Implementation-Title: conf
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ru.krymtech
+Main-Class: ${start-class}
+

@@ -1,0 +1,140 @@
+14-Oct-2024 22:08:47.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+14-Oct-2024 22:08:47.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+14-Oct-2024 22:08:47.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+14-Oct-2024 22:08:47.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+14-Oct-2024 22:08:47.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Oct-2024 22:08:47.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Oct-2024 22:08:47.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\tsark\.jdks\openjdk-22.0.2
+14-Oct-2024 22:08:47.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.2+9-70
+14-Oct-2024 22:08:47.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Oct-2024 22:08:47.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:08:47.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:08:47.435 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\conf\logging.properties
+14-Oct-2024 22:08:47.435 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Oct-2024 22:08:47.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Oct-2024 22:08:47.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Oct-2024 22:08:47.436 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Oct-2024 22:08:47.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Oct-2024 22:08:47.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Oct-2024 22:08:47.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Oct-2024 22:08:47.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Oct-2024 22:08:47.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:08:47.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:08:47.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\temp
+14-Oct-2024 22:08:47.473 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Program Files (x86)\CheckPoint\Endpoint Connect;C:\Program Files\Tailscale\;C:\Program Files\PuTTY\;C:\Program Files\Oracle\VirtualBox;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Git;C:\Program Files\Git\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\OpenVPN\bin;C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\Users\tsark\.m2\apache-maven-3.9.9\bin;C:\Users\tsark\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin;C:\Users\tsark\AppData\Roaming\npm;C:\Users\tsark\AppData\Local\JetBrains\Toolbox\scripts;.]
+14-Oct-2024 22:08:48.373 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Oct-2024 22:08:48.436 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1637] milliseconds
+14-Oct-2024 22:08:48.612 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Oct-2024 22:08:48.613 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+14-Oct-2024 22:08:48.660 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs]
+14-Oct-2024 22:08:49.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs] has finished in [911] ms
+14-Oct-2024 22:08:49.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples]
+14-Oct-2024 22:08:50.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples] has finished in [1,089] ms
+14-Oct-2024 22:08:50.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager]
+14-Oct-2024 22:08:50.763 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager] has finished in [96] ms
+14-Oct-2024 22:08:50.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager]
+14-Oct-2024 22:08:50.849 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager] has finished in [86] ms
+14-Oct-2024 22:08:50.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT]
+14-Oct-2024 22:08:50.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT] has finished in [66] ms
+14-Oct-2024 22:08:50.927 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Oct-2024 22:08:51.016 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2575] milliseconds
+14-Oct-2024 22:09:22.683 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Oct-2024 22:09:22.704 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Oct-2024 22:09:22.778 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Oct-2024 22:09:22.790 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Oct-2024 22:10:32.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+14-Oct-2024 22:10:32.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+14-Oct-2024 22:10:32.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+14-Oct-2024 22:10:32.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+14-Oct-2024 22:10:32.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Oct-2024 22:10:32.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Oct-2024 22:10:32.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\tsark\.jdks\openjdk-22.0.2
+14-Oct-2024 22:10:32.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.2+9-70
+14-Oct-2024 22:10:32.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Oct-2024 22:10:32.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:10:32.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:10:32.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\conf\logging.properties
+14-Oct-2024 22:10:32.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Oct-2024 22:10:32.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Oct-2024 22:10:32.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Oct-2024 22:10:32.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Oct-2024 22:10:32.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Oct-2024 22:10:32.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Oct-2024 22:10:32.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Oct-2024 22:10:32.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Oct-2024 22:10:32.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:10:32.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:10:32.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\temp
+14-Oct-2024 22:10:32.545 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Program Files (x86)\CheckPoint\Endpoint Connect;C:\Program Files\Tailscale\;C:\Program Files\PuTTY\;C:\Program Files\Oracle\VirtualBox;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Git;C:\Program Files\Git\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\OpenVPN\bin;C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\Users\tsark\.m2\apache-maven-3.9.9\bin;C:\Users\tsark\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin;C:\Users\tsark\AppData\Roaming\npm;C:\Users\tsark\AppData\Local\JetBrains\Toolbox\scripts;.]
+14-Oct-2024 22:10:33.313 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:10:33.374 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1493] milliseconds
+14-Oct-2024 22:10:33.518 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Oct-2024 22:10:33.519 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+14-Oct-2024 22:10:33.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs]
+14-Oct-2024 22:10:34.583 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs] has finished in [1,035] ms
+14-Oct-2024 22:10:34.584 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples]
+14-Oct-2024 22:10:36.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples] has finished in [1,462] ms
+14-Oct-2024 22:10:36.048 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager]
+14-Oct-2024 22:10:36.164 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager] has finished in [115] ms
+14-Oct-2024 22:10:36.165 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager]
+14-Oct-2024 22:10:36.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager] has finished in [92] ms
+14-Oct-2024 22:10:36.257 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT]
+14-Oct-2024 22:10:36.323 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT] has finished in [65] ms
+14-Oct-2024 22:10:36.334 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:10:36.416 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3037] milliseconds
+14-Oct-2024 22:14:16.697 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/D:/yadisk/work/8.EDU/!_стажировка_Java/conf/apache-tomcat-10.1.25/conf/tomcat-users.xml]
+14-Oct-2024 22:15:26.833 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/D:/yadisk/work/8.EDU/!_стажировка_Java/conf/apache-tomcat-10.1.25/conf/tomcat-users.xml]
+14-Oct-2024 22:18:27.166 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\conf.war]
+14-Oct-2024 22:18:36.445 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Oct-2024 22:18:43.437 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\conf.war] has finished in [16,270] ms
+14-Oct-2024 22:19:01.960 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:19:01.973 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Oct-2024 22:19:02.044 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:19:02.054 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:19:04.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+14-Oct-2024 22:19:04.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+14-Oct-2024 22:19:04.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+14-Oct-2024 22:19:04.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+14-Oct-2024 22:19:04.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Oct-2024 22:19:04.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Oct-2024 22:19:04.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\tsark\.jdks\openjdk-22.0.2
+14-Oct-2024 22:19:04.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.2+9-70
+14-Oct-2024 22:19:04.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Oct-2024 22:19:04.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:19:04.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:19:04.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\conf\logging.properties
+14-Oct-2024 22:19:04.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Oct-2024 22:19:04.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Oct-2024 22:19:04.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Oct-2024 22:19:04.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Oct-2024 22:19:04.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Oct-2024 22:19:04.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Oct-2024 22:19:04.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Oct-2024 22:19:04.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Oct-2024 22:19:04.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:19:04.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25
+14-Oct-2024 22:19:04.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\temp
+14-Oct-2024 22:19:04.322 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\Program Files (x86)\CheckPoint\Endpoint Connect;C:\Program Files\Tailscale\;C:\Program Files\PuTTY\;C:\Program Files\Oracle\VirtualBox;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Git;C:\Program Files\Git\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\OpenVPN\bin;C:\Users\tsark\.jdks\openjdk-22.0.2\bin;C:\Users\tsark\.m2\apache-maven-3.9.9\bin;C:\Users\tsark\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.1\bin;C:\Users\tsark\AppData\Roaming\npm;C:\Users\tsark\AppData\Local\JetBrains\Toolbox\scripts;.]
+14-Oct-2024 22:19:04.962 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:19:05.010 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1194] milliseconds
+14-Oct-2024 22:19:05.119 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Oct-2024 22:19:05.119 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+14-Oct-2024 22:19:05.173 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\conf.war]
+14-Oct-2024 22:19:09.083 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Oct-2024 22:19:15.418 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\conf.war] has finished in [10,244] ms
+14-Oct-2024 22:19:15.419 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs]
+14-Oct-2024 22:19:15.480 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\docs] has finished in [61] ms
+14-Oct-2024 22:19:15.481 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples]
+14-Oct-2024 22:19:16.099 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\examples] has finished in [617] ms
+14-Oct-2024 22:19:16.100 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager]
+14-Oct-2024 22:19:16.165 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\host-manager] has finished in [66] ms
+14-Oct-2024 22:19:16.165 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager]
+14-Oct-2024 22:19:16.221 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\manager] has finished in [56] ms
+14-Oct-2024 22:19:16.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT]
+14-Oct-2024 22:19:16.258 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\yadisk\work\8.EDU\!_стажировка_Java\conf\apache-tomcat-10.1.25\webapps\ROOT] has finished in [36] ms
+14-Oct-2024 22:19:16.264 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:19:16.310 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [11297] milliseconds
+14-Oct-2024 22:23:47.975 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:23:47.984 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Oct-2024 22:23:48.044 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8088"]
+14-Oct-2024 22:23:48.055 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8088"]
